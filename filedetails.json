@@ -1,6 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
+    {"id":0,"file":0"
 dev tun
 proto udp
 remote public-vpn-119.opengw.net 1195
@@ -105,7 +105,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 
 "},
-    {"id":1,"file":"
+    {"id":1,"file":0"
 dev tun
 proto udp
 remote 198.13.36.179 1194
